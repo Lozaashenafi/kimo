@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Sleeping Crescent Moon -->
+  <!-- Crescent Moon Silhouette -->
+  <path d="M78 20 C50 20 30 42 30 70 C30 96 50 116 78 116 C64 104 56 86 56 68 C56 50 64 32 78 20 Z" 
+        fill="#FFD166" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Rosy Blush -->
+  <ellipse cx="44" cy="74" rx="7" ry="4.5" fill="#FFA3BA" fill-opacity="0.85"/>
+  <!-- Sleeping Peaceful Closed Eye -->
+  <path d="M40 60 C44 54 52 54 56 60" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <!-- Gentle Smile -->
+  <path d="M48 76 C52 80 56 80 60 76" stroke="#1E1F24" stroke-width="3" stroke-linecap="round"/>
+  <!-- Night Stars surrounding -->
+  <path d="M96 34 L98 40 L104 42 L98 44 L96 50 L94 44 L88 42 L94 40 Z" fill="#70D6FF"/>
+  <path d="M88 78 L90 82 L94 84 L90 86 L88 90 L86 86 L82 84 L86 82 Z" fill="#FF85A1"/>
+</svg>

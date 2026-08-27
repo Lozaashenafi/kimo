@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Excited Star Eyes -->
+  <ellipse cx="24" cy="74" rx="15" ry="9" fill="#FFA3BA" fill-opacity="0.75"/>
+  <ellipse cx="104" cy="74" rx="15" ry="9" fill="#FFA3BA" fill-opacity="0.75"/>
+
+  <!-- Eyebrows high up -->
+  <path d="M26 28 C34 22 48 24 54 30" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M74 30 C80 24 94 22 102 28" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- Left Star Eye -->
+  <g transform="translate(42, 50)">
+    <polygon points="0,-16 4,-4 16,-4 7,4 10,16 0,8 -10,16 -7,4 -16,-4 -4,-4" fill="#FFB703" stroke="#1E1F24" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="-1" cy="-4" r="2.5" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Right Star Eye -->
+  <g transform="translate(86, 50)">
+    <polygon points="0,-16 4,-4 16,-4 7,4 10,16 0,8 -10,16 -7,4 -16,-4 -4,-4" fill="#FFB703" stroke="#1E1F24" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="-1" cy="-4" r="2.5" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Open enthusiastic mouth with cute tongue -->
+  <path d="M42 72 C42 72 46 96 64 96 C82 96 86 72 86 72 Z" fill="#FF4D6D" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M52 90 C56 84 72 84 76 90 Z" fill="#FF85A1"/>
+  
+  <!-- Sparkles around -->
+  <path d="M16 38 L18 42 L22 44 L18 46 L16 50 L14 46 L10 44 L14 42 Z" fill="#FFD166"/>
+  <path d="M112 36 L114 40 L118 42 L114 44 L112 48 L110 44 L106 42 L110 40 Z" fill="#FFD166"/>
+</svg>

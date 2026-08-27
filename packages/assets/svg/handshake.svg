@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Handshake -->
+  <!-- Left Hand & Sleeve -->
+  <path d="M16 48 L36 48 L56 68 L44 80 L28 66 L16 66 Z" fill="#FFE5D9" stroke="#1E1F24" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="16" y="44" width="14" height="26" rx="4" fill="#70D6FF" stroke="#1E1F24" stroke-width="3.5"/>
+  <!-- Right Hand & Sleeve -->
+  <path d="M112 48 L92 48 L72 68 L84 80 L100 66 L112 66 Z" fill="#FFE5D9" stroke="#1E1F24" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="98" y="44" width="14" height="26" rx="4" fill="#FFD166" stroke="#1E1F24" stroke-width="3.5"/>
+  <!-- Clasping Interlocked Fingers -->
+  <path d="M48 64 L64 78 L80 64 L64 52 Z" fill="#FFD8BE" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Agreement Sparkles -->
+  <path d="M64 24 L66 30 L72 32 L66 34 L64 40 L62 34 L56 32 L62 30 Z" fill="#FFD166"/>
+</svg>

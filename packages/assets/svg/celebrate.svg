@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Celebrate Party Popper -->
+  <!-- Party Popper Cone -->
+  <g transform="translate(18, 56) rotate(-25)">
+    <path d="M0 0 L46 22 L22 46 Z" fill="#FFB703" stroke="#1E1F24" stroke-width="4" stroke-linejoin="round"/>
+    <!-- Stripes on Cone -->
+    <path d="M12 6 L6 18" stroke="#FF4D6D" stroke-width="4" stroke-linecap="round"/>
+    <path d="M24 12 L12 36" stroke="#4CC9F0" stroke-width="4" stroke-linecap="round"/>
+    <path d="M36 18 L24 42" stroke="#80B918" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Exploding ribbons and confetti -->
+  <!-- Streamer 1 -->
+  <path d="M68 54 C74 44 84 56 94 42 C100 34 110 40 116 30" stroke="#FF4D6D" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <!-- Streamer 2 -->
+  <path d="M56 36 C64 26 62 14 74 12 C84 10 90 20 102 16" stroke="#4CC9F0" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Streamer 3 -->
+  <path d="M84 76 C94 72 98 84 110 80 C116 78 120 86 122 92" stroke="#80B918" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Confetti Dots & Stars -->
+  <circle cx="58" cy="22" r="4.5" fill="#FFB703" stroke="#1E1F24" stroke-width="2"/>
+  <circle cx="82" cy="32" r="5" fill="#FF758F" stroke="#1E1F24" stroke-width="2"/>
+  <circle cx="78" cy="62" r="4" fill="#70D6FF" stroke="#1E1F24" stroke-width="2"/>
+  <circle cx="106" cy="56" r="4.5" fill="#FFB703" stroke="#1E1F24" stroke-width="2"/>
+
+  <!-- Confetti Diamonds -->
+  <polygon points="98,28 102,34 98,40 94,34" fill="#FF4D6D"/>
+  <polygon points="64,48 68,54 64,60 60,54" fill="#80B918"/>
+  <polygon points="112,70 116,74 112,78 108,74" fill="#70D6FF"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Thumbs Up -->
+  <g transform="translate(18, 14)">
+    <!-- Hand base and fingers -->
+    <!-- Thumb pointing up -->
+    <path d="M26 38 C26 22 36 10 46 10 C52 10 56 16 54 26 L50 44 L68 44 C76 44 82 48 82 56 C82 60 78 64 74 66 C80 68 84 72 82 78 C82 82 78 86 72 88 C76 90 78 94 76 100 C74 104 68 106 58 106 L26 106 C18 106 12 100 12 92 L12 52 C12 44 18 38 26 38 Z" 
+          fill="#FFE5D9" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+    
+    <!-- Finger division lines -->
+    <path d="M52 64 L74 64" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+    <path d="M50 84 L72 84" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- Cuff / Wrist -->
+    <path d="M12 52 L2 52 C0 52 0 106 2 106 L12 106" fill="#4CC9F0" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+
+    <!-- Motion / Approval Marks -->
+    <path d="M60 4 Q68 -2 76 2" stroke="#FFB703" stroke-width="4" stroke-linecap="round"/>
+    <path d="M84 16 Q92 14 96 22" stroke="#FFB703" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

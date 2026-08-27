@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Kawaii Skull -->
+  <!-- Skull Cranium & Jaw -->
+  <path d="M30 60 C30 36 44 22 64 22 C84 22 98 36 98 60 C98 74 90 82 82 84 L82 98 C82 102 78 106 74 106 L54 106 C50 106 46 102 46 98 L46 84 C38 82 30 74 30 60 Z" 
+        fill="#F8F9FA" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Rosy Cute Blush -->
+  <ellipse cx="38" cy="74" rx="7" ry="4" fill="#FFA3BA" fill-opacity="0.85"/>
+  <ellipse cx="90" cy="74" rx="7" ry="4" fill="#FFA3BA" fill-opacity="0.85"/>
+  <!-- Big Cute Eye Sockets -->
+  <circle cx="48" cy="58" r="11" fill="#1E1F24"/>
+  <circle cx="50" cy="55" r="3.5" fill="#FFFFFF"/>
+  <circle cx="80" cy="58" r="11" fill="#1E1F24"/>
+  <circle cx="82" cy="55" r="3.5" fill="#FFFFFF"/>
+  <!-- Heart Nose Cavity -->
+  <path d="M64 70 C62 67 60 67 59 69 C58 71 60 74 64 76 C68 74 70 71 69 69 C68 67 66 67 64 70 Z" fill="#1E1F24"/>
+  <!-- Teeth separator lines -->
+  <line x1="56" y1="92" x2="56" y2="106" stroke="#1E1F24" stroke-width="3" stroke-linecap="round"/>
+  <line x1="64" y1="92" x2="64" y2="106" stroke="#1E1F24" stroke-width="3" stroke-linecap="round"/>
+  <line x1="72" y1="92" x2="72" y2="106" stroke="#1E1F24" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Sparkling Diamond / Gem -->
+  <!-- Faceted Crown Top -->
+  <path d="M38 42 L90 42 L112 62 L16 62 Z" fill="#70D6FF" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Pavilion Bottom Point -->
+  <path d="M16 62 L64 112 L112 62 Z" fill="#00B4D8" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Facet Internal Lines -->
+  <path d="M38 42 L52 62 L64 112 L76 62 L90 42" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round" fill="none"/>
+  <path d="M52 62 L76 62" stroke="#1E1F24" stroke-width="3"/>
+  <!-- Highlight Glints -->
+  <polygon points="52,46 64,46 58,58" fill="#E8F8FF"/>
+  <path d="M22 28 L24 34 L30 36 L24 38 L22 44 L20 38 L14 36 L20 34 Z" fill="#FFFFFF"/>
+</svg>

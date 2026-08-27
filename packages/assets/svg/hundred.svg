@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: 100 Points Symbol -->
+  <!-- 100 Digits in Vivid Crimson with playful angle -->
+  <g transform="rotate(-12 64 64)">
+    <!-- Digit 1 -->
+    <path d="M26 44 L38 34 L38 88 L26 88" stroke="#E63946" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- First Zero 0 -->
+    <ellipse cx="62" cy="62" rx="14" ry="24" stroke="#E63946" stroke-width="8" fill="none"/>
+    <!-- Second Zero 0 -->
+    <ellipse cx="98" cy="62" rx="14" ry="24" stroke="#E63946" stroke-width="8" fill="none"/>
+    <!-- Double Underlines -->
+    <line x1="20" y1="98" x2="114" y2="98" stroke="#E63946" stroke-width="6" stroke-linecap="round"/>
+    <line x1="24" y1="108" x2="110" y2="108" stroke="#E63946" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

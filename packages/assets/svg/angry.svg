@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Angry -->
+  <ellipse cx="26" cy="76" rx="14" ry="9" fill="#FF5964" fill-opacity="0.6"/>
+  <ellipse cx="102" cy="76" rx="14" ry="9" fill="#FF5964" fill-opacity="0.6"/>
+
+  <!-- Angry slanted eyebrows -->
+  <path d="M26 34 L56 46" stroke="#1E1F24" stroke-width="5" stroke-linecap="round"/>
+  <path d="M102 34 L72 46" stroke="#1E1F24" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Glaring eyes -->
+  <ellipse cx="44" cy="56" rx="8" ry="10" fill="#1E1F24"/>
+  <circle cx="46" cy="54" r="2.5" fill="#FFFFFF"/>
+
+  <ellipse cx="84" cy="56" rx="8" ry="10" fill="#1E1F24"/>
+  <circle cx="82" cy="54" r="2.5" fill="#FFFFFF"/>
+
+  <!-- Vein mark / Angry cross (Anger puff) -->
+  <g transform="translate(94, 20) scale(0.7)">
+    <path d="M8 0 Q16 16 32 16" stroke="#E63946" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+    <path d="M24 0 Q16 16 0 16" stroke="#E63946" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+    <path d="M32 16 Q16 16 8 32" stroke="#E63946" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+    <path d="M0 16 Q16 16 24 32" stroke="#E63946" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- Gritted Teeth / Angry mouth -->
+  <path d="M44 80 C44 76 84 76 84 80 C84 90 44 90 44 80 Z" fill="#FFFFFF" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Teeth lines -->
+  <path d="M44 83 L84 83" stroke="#1E1F24" stroke-width="2.5"/>
+  <path d="M54 77 L54 89" stroke="#1E1F24" stroke-width="2.5"/>
+  <path d="M64 77 L64 89" stroke="#1E1F24" stroke-width="2.5"/>
+  <path d="M74 77 L74 89" stroke="#1E1F24" stroke-width="2.5"/>
+
+  <!-- Steam clouds puffing out sides -->
+  <path d="M18 72 C12 68 8 74 12 80 C8 84 14 88 18 84" stroke="#8D99AE" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M110 72 C116 68 120 74 116 80 C120 84 114 88 110 84" stroke="#8D99AE" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Pizza Slice with Melted Cheese -->
+  <!-- Crust Top Arc -->
+  <path d="M28 32 C50 18 78 18 100 32 L64 112 Z" fill="#FFB703" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Brown Crust -->
+  <path d="M26 32 C50 16 78 16 102 32 C96 40 32 40 26 32 Z" fill="#CB997E" stroke="#1E1F24" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Tomato Sauce Peek -->
+  <path d="M32 38 C50 32 78 32 96 38" stroke="#E63946" stroke-width="4" stroke-linecap="round"/>
+  <!-- Pepperonis -->
+  <circle cx="50" cy="54" r="8" fill="#D62828" stroke="#1E1F24" stroke-width="2.5"/>
+  <circle cx="78" cy="54" r="8" fill="#D62828" stroke="#1E1F24" stroke-width="2.5"/>
+  <circle cx="64" cy="78" r="8" fill="#D62828" stroke="#1E1F24" stroke-width="2.5"/>
+  <!-- Green Pepper Flakes -->
+  <rect x="58" y="44" width="6" height="4" rx="1.5" fill="#52B788" transform="rotate(20 58 44)"/>
+  <rect x="74" y="70" width="6" height="4" rx="1.5" fill="#52B788" transform="rotate(-30 74 70)"/>
+  <!-- Cheese Drips -->
+  <path d="M46 70 C46 80 52 80 52 70" fill="#FFD166" stroke="#1E1F24" stroke-width="2.5"/>
+</svg>

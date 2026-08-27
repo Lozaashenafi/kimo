@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Money Face (Dollar Eyes & Money Tongue) -->
+  <ellipse cx="28" cy="74" rx="14" ry="9" fill="#FFA3BA" fill-opacity="0.65"/>
+  <ellipse cx="100" cy="74" rx="14" ry="9" fill="#FFA3BA" fill-opacity="0.65"/>
+  <!-- Left Green Dollar Sign Eye -->
+  <text x="42" y="62" font-family="system-ui, sans-serif" font-weight="900" font-size="28" fill="#2B9348" text-anchor="middle" stroke="#1E1F24" stroke-width="1.5">$</text>
+  <!-- Right Green Dollar Sign Eye -->
+  <text x="86" y="62" font-family="system-ui, sans-serif" font-weight="900" font-size="28" fill="#2B9348" text-anchor="middle" stroke="#1E1F24" stroke-width="1.5">$</text>
+  <!-- Wide Open Grin with Green Dollar Tongue sticking out -->
+  <path d="M44 76 C44 76 52 92 64 92 C76 92 84 76 84 76 Z" fill="#1E1F24"/>
+  <path d="M54 84 C54 98 74 98 74 84 Z" fill="#55A630" stroke="#1E1F24" stroke-width="3"/>
+  <line x1="64" y1="84" x2="64" y2="94" stroke="#2B9348" stroke-width="2"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Kimo SVG Emoji UI Library",
+  "description": "A production-ready, open-source SVG emoji library and design system for modern web frameworks with tree-shaking, accessibility, and interactive documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Floating Balloon -->
+  <!-- Curving String -->
+  <path d="M64 96 C64 104 56 108 64 116 C70 122 62 126 64 128" stroke="#1E1F24" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Knot at bottom of balloon -->
+  <polygon points="60,94 68,94 64,98" fill="#E63946" stroke="#1E1F24" stroke-width="2.5"/>
+  <!-- Balloon Oval Body -->
+  <ellipse cx="64" cy="52" rx="42" ry="46" fill="#FF4D6D" stroke="#1E1F24" stroke-width="4.5"/>
+  <!-- Curved 3D Highlight Glint -->
+  <path d="M42 26 C34 36 34 56 40 68" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-opacity="0.85"/>
+  <!-- Little Sparkle Star next to balloon -->
+  <path d="M96 20 L98 24 L102 26 L98 28 L96 32 L94 28 L90 26 L94 24 Z" fill="#FFD166"/>
+</svg>

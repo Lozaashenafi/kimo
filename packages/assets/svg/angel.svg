@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Innocent Angel -->
+  <!-- Glowing Golden Halo -->
+  <ellipse cx="64" cy="22" rx="36" ry="10" stroke="#FFD166" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="64" cy="22" rx="36" ry="10" stroke="#FFF3B0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Rosy Blush -->
+  <ellipse cx="28" cy="74" rx="14" ry="9" fill="#FFA3BA" fill-opacity="0.75"/>
+  <ellipse cx="100" cy="74" rx="14" ry="9" fill="#FFA3BA" fill-opacity="0.75"/>
+  <!-- Peaceful Smiling Eyes -->
+  <path d="M34 56 C40 48 50 48 56 56" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M72 56 C78 48 88 48 94 56" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Pure Gentle Smile -->
+  <path d="M52 78 C58 86 70 86 76 78" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <!-- Cute Mini Angel Wings in background -->
+  <path d="M18 52 C6 44 4 64 16 68 Z" fill="#E8F4F8" stroke="#1E1F24" stroke-width="3"/>
+  <path d="M110 52 C122 44 124 64 112 68 Z" fill="#E8F4F8" stroke="#1E1F24" stroke-width="3"/>
+</svg>

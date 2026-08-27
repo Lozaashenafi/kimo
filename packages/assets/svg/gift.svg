@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Wrapped Gift Box -->
+  <!-- Box Base -->
+  <rect x="28" y="58" width="72" height="50" rx="8" fill="#FF4D6D" stroke="#1E1F24" stroke-width="4.5"/>
+  <!-- Box Lid -->
+  <rect x="22" y="46" width="84" height="16" rx="6" fill="#FF758F" stroke="#1E1F24" stroke-width="4.5"/>
+  <!-- Yellow Ribbon Band -->
+  <rect x="58" y="46" width="12" height="62" fill="#FFD166" stroke="#1E1F24" stroke-width="3"/>
+  <rect x="28" y="76" width="72" height="12" fill="#FFD166" stroke="#1E1F24" stroke-width="3"/>
+  <!-- Ribbon Bow on top -->
+  <path d="M64 46 C52 34 38 34 46 44 C52 50 64 46 64 46 Z" fill="#FFD166" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M64 46 C76 34 90 34 82 44 C76 50 64 46 64 46 Z" fill="#FFD166" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round"/>
+  <circle cx="64" cy="46" r="5" fill="#FFB703" stroke="#1E1F24" stroke-width="2.5"/>
+  <!-- Sparkles -->
+  <path d="M106 32 L108 36 L112 38 L108 40 L106 44 L104 40 L100 38 L104 36 Z" fill="#FFD166"/>
+</svg>

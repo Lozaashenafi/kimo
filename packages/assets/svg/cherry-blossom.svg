@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Cherry Blossom (Sakura Flower) -->
+  <g transform="translate(64 64)">
+    <!-- 5 Petals -->
+    <!-- Top Petal -->
+    <path d="M0 -10 C-14 -20 -12 -48 0 -54 C12 -48 14 -20 0 -10 Z" fill="#FFA3BA" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round"/>
+    <!-- Top Right Petal -->
+    <path d="M0 -10 C-14 -20 -12 -48 0 -54 C12 -48 14 -20 0 -10 Z" fill="#FFA3BA" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round" transform="rotate(72)"/>
+    <!-- Bottom Right Petal -->
+    <path d="M0 -10 C-14 -20 -12 -48 0 -54 C12 -48 14 -20 0 -10 Z" fill="#FFA3BA" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round" transform="rotate(144)"/>
+    <!-- Bottom Left Petal -->
+    <path d="M0 -10 C-14 -20 -12 -48 0 -54 C12 -48 14 -20 0 -10 Z" fill="#FFA3BA" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round" transform="rotate(216)"/>
+    <!-- Top Left Petal -->
+    <path d="M0 -10 C-14 -20 -12 -48 0 -54 C12 -48 14 -20 0 -10 Z" fill="#FFA3BA" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round" transform="rotate(288)"/>
+    <!-- Center Pollen Star / Disc -->
+    <circle cx="0" cy="0" r="14" fill="#FFCCD5"/>
+    <circle cx="0" cy="0" r="8" fill="#FF758F"/>
+    <circle cx="0" cy="-6" r="2" fill="#FFD166"/>
+    <circle cx="6" cy="-2" r="2" fill="#FFD166"/>
+    <circle cx="4" cy="5" r="2" fill="#FFD166"/>
+    <circle cx="-4" cy="5" r="2" fill="#FFD166"/>
+    <circle cx="-6" cy="-2" r="2" fill="#FFD166"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Teddy Bear -->
+  <!-- Round Bear Ears -->
+  <circle cx="34" cy="38" r="18" fill="#C89666" stroke="#1E1F24" stroke-width="4"/>
+  <circle cx="34" cy="38" r="10" fill="#E8C39E"/>
+  <circle cx="94" cy="38" r="18" fill="#C89666" stroke="#1E1F24" stroke-width="4"/>
+  <circle cx="94" cy="38" r="10" fill="#E8C39E"/>
+  <!-- Head -->
+  <circle cx="64" cy="72" r="44" fill="#DDB892" stroke="#1E1F24" stroke-width="4.5"/>
+  <!-- Snout Area -->
+  <ellipse cx="64" cy="80" rx="20" ry="16" fill="#F3E0C8"/>
+  <!-- Rosy Blush -->
+  <ellipse cx="32" cy="76" rx="9" ry="6" fill="#FF8BA7" fill-opacity="0.75"/>
+  <ellipse cx="96" cy="76" rx="9" ry="6" fill="#FF8BA7" fill-opacity="0.75"/>
+  <!-- Eyes -->
+  <ellipse cx="44" cy="62" rx="6" ry="7" fill="#1E1F24"/>
+  <circle cx="46" cy="60" r="2.2" fill="#FFFFFF"/>
+  <ellipse cx="84" cy="62" rx="6" ry="7" fill="#1E1F24"/>
+  <circle cx="86" cy="60" r="2.2" fill="#FFFFFF"/>
+  <!-- Bear Nose & Smile -->
+  <ellipse cx="64" cy="74" rx="7" ry="5" fill="#1E1F24"/>
+  <path d="M64 79 L64 85" stroke="#1E1F24" stroke-width="3" stroke-linecap="round"/>
+  <path d="M56 86 C60 90 68 90 72 86" stroke="#1E1F24" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,634 @@
+[
+  {
+    "name": "happy",
+    "label": "Happy",
+    "category": "faces",
+    "keywords": ["happy", "smile", "joy", "cheerful", "positive", "smiling", "blush"],
+    "unicode": "😊",
+    "version": "1.0.0"
+  },
+  {
+    "name": "laugh",
+    "label": "Laughing",
+    "category": "faces",
+    "keywords": ["laugh", "lol", "haha", "joy", "giggle", "happy", "fun"],
+    "unicode": "😆",
+    "version": "1.0.0"
+  },
+  {
+    "name": "love",
+    "label": "Heart Eyes",
+    "category": "love",
+    "keywords": ["love", "heart", "crush", "adore", "infatuation", "affection", "cute"],
+    "unicode": "😍",
+    "version": "1.0.0"
+  },
+  {
+    "name": "wink",
+    "label": "Winking",
+    "category": "faces",
+    "keywords": ["wink", "playful", "cheeky", "flirt", "joke"],
+    "unicode": "😉",
+    "version": "1.0.0"
+  },
+  {
+    "name": "cool",
+    "label": "Cool Sunglasses",
+    "category": "faces",
+    "keywords": ["cool", "sunglasses", "chill", "awesome", "slick", "shades"],
+    "unicode": "😎",
+    "version": "1.0.0"
+  },
+  {
+    "name": "excited",
+    "label": "Starry Excited",
+    "category": "emotions",
+    "keywords": ["excited", "star", "sparkle", "amazed", "hyped", "thrilled"],
+    "unicode": "🤩",
+    "version": "1.0.0"
+  },
+  {
+    "name": "thinking",
+    "label": "Thinking",
+    "category": "emotions",
+    "keywords": ["thinking", "ponder", "curious", "hmm", "question", "wonder"],
+    "unicode": "🤔",
+    "version": "1.0.0"
+  },
+  {
+    "name": "surprised",
+    "label": "Surprised",
+    "category": "reactions",
+    "keywords": ["surprised", "gasp", "shock", "wow", "omg", "eyes"],
+    "unicode": "😮",
+    "version": "1.0.0"
+  },
+  {
+    "name": "confused",
+    "label": "Confused",
+    "category": "emotions",
+    "keywords": ["confused", "puzzled", "huh", "unsure", "derp", "sweat"],
+    "unicode": "😕",
+    "version": "1.0.0"
+  },
+  {
+    "name": "sad",
+    "label": "Sad Pout",
+    "category": "emotions",
+    "keywords": ["sad", "pout", "down", "unhappy", "sorrow", "frown"],
+    "unicode": "🥺",
+    "version": "1.0.0"
+  },
+  {
+    "name": "cry",
+    "label": "Crying Waterfall",
+    "category": "emotions",
+    "keywords": ["cry", "tears", "sad", "weep", "waterfall", "sobbing"],
+    "unicode": "😭",
+    "version": "1.0.0"
+  },
+  {
+    "name": "angry",
+    "label": "Angry Steam",
+    "category": "emotions",
+    "keywords": ["angry", "mad", "rage", "furious", "annoyed", "steam"],
+    "unicode": "😤",
+    "version": "1.0.0"
+  },
+  {
+    "name": "sleepy",
+    "label": "Sleepy / Zzz",
+    "category": "faces",
+    "keywords": ["sleepy", "tired", "sleep", "zzz", "bedtime", "nap", "bubble"],
+    "unicode": "😴",
+    "version": "1.0.0"
+  },
+  {
+    "name": "dizzy",
+    "label": "Spiral Dizzy",
+    "category": "reactions",
+    "keywords": ["dizzy", "spiral", "spinning", "faint", "overwhelmed", "woozy"],
+    "unicode": "💫",
+    "version": "1.0.0"
+  },
+  {
+    "name": "smug",
+    "label": "Smug / Heh",
+    "category": "faces",
+    "keywords": ["smug", "sly", "clever", "heh", "confident", "grin"],
+    "unicode": "😏",
+    "version": "1.0.0"
+  },
+  {
+    "name": "mind-blown",
+    "label": "Mind Blown",
+    "category": "reactions",
+    "keywords": ["mindblown", "explode", "shock", "brain", "unbelievable", "boom"],
+    "unicode": "🤯",
+    "version": "1.0.0"
+  },
+  {
+    "name": "pleading",
+    "label": "Pleading Puppy Eyes",
+    "category": "emotions",
+    "keywords": ["pleading", "puppy", "eyes", "beg", "please", "cute", "sparkle"],
+    "unicode": "🥺",
+    "version": "1.1.0"
+  },
+  {
+    "name": "sweat-smile",
+    "label": "Nervous Sweat Smile",
+    "category": "faces",
+    "keywords": ["sweat", "nervous", "smile", "awkward", "relief", "oops", "whew"],
+    "unicode": "😅",
+    "version": "1.1.0"
+  },
+  {
+    "name": "drool",
+    "label": "Drooling / Yummy",
+    "category": "faces",
+    "keywords": ["drool", "yummy", "delicious", "hungry", "craving", "tasty"],
+    "unicode": "🤤",
+    "version": "1.1.0"
+  },
+  {
+    "name": "shy",
+    "label": "Shy Blush",
+    "category": "emotions",
+    "keywords": ["shy", "blush", "bashful", "flustered", "cute", "crush", "sweet"],
+    "unicode": "😳",
+    "version": "1.1.0"
+  },
+  {
+    "name": "scream",
+    "label": "Screaming Shock",
+    "category": "reactions",
+    "keywords": ["scream", "shocked", "fear", "panic", "omg", "munch", "horror"],
+    "unicode": "😱",
+    "version": "1.1.0"
+  },
+  {
+    "name": "devil",
+    "label": "Mischievous Devil",
+    "category": "faces",
+    "keywords": ["devil", "horns", "evil", "smirk", "mischief", "naughty", "purple"],
+    "unicode": "😈",
+    "version": "1.1.0"
+  },
+  {
+    "name": "angel",
+    "label": "Innocent Angel",
+    "category": "faces",
+    "keywords": ["angel", "halo", "innocent", "pure", "saint", "wings", "peace"],
+    "unicode": "😇",
+    "version": "1.1.0"
+  },
+  {
+    "name": "clown",
+    "label": "Clown Face",
+    "category": "fun",
+    "keywords": ["clown", "circus", "funny", "silly", "costume", "makeup", "joke"],
+    "unicode": "🤡",
+    "version": "1.1.0"
+  },
+  {
+    "name": "ghost",
+    "label": "Friendly Ghost",
+    "category": "fun",
+    "keywords": ["ghost", "boo", "cute", "spooky", "halloween", "spirit", "floating"],
+    "unicode": "👻",
+    "version": "1.1.0"
+  },
+  {
+    "name": "cute-poop",
+    "label": "Cute Poop",
+    "category": "fun",
+    "keywords": ["poop", "cute", "swirl", "funny", "kawaii", "brown"],
+    "unicode": "💩",
+    "version": "1.1.0"
+  },
+  {
+    "name": "rolling-eyes",
+    "label": "Rolling Eyes",
+    "category": "reactions",
+    "keywords": ["rolling", "eyes", "whatever", "bored", "annoyed", "sigh", "eyeroll"],
+    "unicode": "🙄",
+    "version": "1.1.0"
+  },
+  {
+    "name": "money-face",
+    "label": "Money Face",
+    "category": "faces",
+    "keywords": ["money", "dollar", "cash", "rich", "wealth", "tongue", "green"],
+    "unicode": "🤑",
+    "version": "1.1.0"
+  },
+  {
+    "name": "yawn",
+    "label": "Yawning / Tired",
+    "category": "faces",
+    "keywords": ["yawn", "sleepy", "tired", "bedtime", "exhausted", "nap"],
+    "unicode": "🥱",
+    "version": "1.1.0"
+  },
+  {
+    "name": "puke",
+    "label": "Sick / Puking",
+    "category": "emotions",
+    "keywords": ["puke", "sick", "vomit", "gross", "ill", "green", "nauseous"],
+    "unicode": "🤮",
+    "version": "1.1.0"
+  },
+  {
+    "name": "celebrate",
+    "label": "Party Popper",
+    "category": "fun",
+    "keywords": ["celebrate", "party", "confetti", "woohoo", "cheer", "popper"],
+    "unicode": "🎉",
+    "version": "1.0.0"
+  },
+  {
+    "name": "party",
+    "label": "Party Mascot",
+    "category": "fun",
+    "keywords": ["party", "hat", "horn", "festive", "birthday", "celebration"],
+    "unicode": "🥳",
+    "version": "1.0.0"
+  },
+  {
+    "name": "fire",
+    "label": "Lit Fire",
+    "category": "symbols",
+    "keywords": ["fire", "flame", "lit", "hot", "trending", "burn"],
+    "unicode": "🔥",
+    "version": "1.0.0"
+  },
+  {
+    "name": "heart",
+    "label": "Sparkling Heart",
+    "category": "love",
+    "keywords": ["heart", "love", "like", "sparkle", "favorite", "red"],
+    "unicode": "💖",
+    "version": "1.0.0"
+  },
+  {
+    "name": "cat-happy",
+    "label": "Happy Cat",
+    "category": "animals",
+    "keywords": ["cat", "kitty", "kitten", "happy", "cute", "whiskers", "pet", "meow"],
+    "unicode": "🐱",
+    "version": "1.1.0"
+  },
+  {
+    "name": "cat-love",
+    "label": "Love Cat",
+    "category": "animals",
+    "keywords": ["cat", "kitty", "love", "heart", "eyes", "cute", "purr"],
+    "unicode": "😻",
+    "version": "1.1.0"
+  },
+  {
+    "name": "cat-cry",
+    "label": "Crying Cat",
+    "category": "animals",
+    "keywords": ["cat", "kitty", "cry", "tears", "sad", "weep", "whimper"],
+    "unicode": "😿",
+    "version": "1.1.0"
+  },
+  {
+    "name": "bunny",
+    "label": "Cute Bunny",
+    "category": "animals",
+    "keywords": ["bunny", "rabbit", "cute", "ears", "pet", "hop", "white"],
+    "unicode": "🐰",
+    "version": "1.1.0"
+  },
+  {
+    "name": "bear",
+    "label": "Teddy Bear",
+    "category": "animals",
+    "keywords": ["bear", "teddy", "cute", "fluffy", "cozy", "brown", "hug"],
+    "unicode": "🐻",
+    "version": "1.1.0"
+  },
+  {
+    "name": "duck",
+    "label": "Rubber Duckling",
+    "category": "animals",
+    "keywords": ["duck", "duckling", "quack", "yellow", "rubber", "bird", "beak"],
+    "unicode": "🦆",
+    "version": "1.1.0"
+  },
+  {
+    "name": "dog-puppy",
+    "label": "Happy Puppy",
+    "category": "animals",
+    "keywords": ["dog", "puppy", "pup", "bark", "woof", "pet", "cute", "ears"],
+    "unicode": "🐶",
+    "version": "1.1.0"
+  },
+  {
+    "name": "panda",
+    "label": "Cute Panda",
+    "category": "animals",
+    "keywords": ["panda", "bear", "bamboo", "black", "white", "cute", "fluffy"],
+    "unicode": "🐼",
+    "version": "1.1.0"
+  },
+  {
+    "name": "piggy",
+    "label": "Cute Piggy",
+    "category": "animals",
+    "keywords": ["pig", "piggy", "pink", "oink", "snout", "cute", "pet"],
+    "unicode": "🐷",
+    "version": "1.1.0"
+  },
+  {
+    "name": "frog-happy",
+    "label": "Happy Frog",
+    "category": "animals",
+    "keywords": ["frog", "happy", "cute", "toad", "green", "mascot", "ribbit"],
+    "unicode": "🐸",
+    "version": "1.0.0"
+  },
+  {
+    "name": "frog-cry",
+    "label": "Weeping Frog",
+    "category": "animals",
+    "keywords": ["frog", "cry", "tears", "sad", "sobbing", "doodle"],
+    "unicode": "😭",
+    "version": "1.0.0"
+  },
+  {
+    "name": "frog-love",
+    "label": "Frog in Love",
+    "category": "animals",
+    "keywords": ["frog", "love", "heart", "crush", "cute", "ribbit", "holding"],
+    "unicode": "🐸",
+    "version": "1.1.0"
+  },
+  {
+    "name": "frog-coffee",
+    "label": "Frog Sipping Coffee",
+    "category": "animals",
+    "keywords": ["frog", "coffee", "tea", "sip", "cozy", "relax", "morning"],
+    "unicode": "☕",
+    "version": "1.1.0"
+  },
+  {
+    "name": "frog-dance",
+    "label": "Dancing Frog",
+    "category": "animals",
+    "keywords": ["frog", "dance", "party", "groove", "fun", "celebration"],
+    "unicode": "🕺",
+    "version": "1.1.0"
+  },
+  {
+    "name": "heart-hands",
+    "label": "Heart Hands",
+    "category": "gestures",
+    "keywords": ["heart", "hands", "love", "gesture", "cute", "kpop", "adore"],
+    "unicode": "🫶",
+    "version": "1.1.0"
+  },
+  {
+    "name": "thumbs-up",
+    "label": "Thumbs Up",
+    "category": "gestures",
+    "keywords": ["thumbsup", "agree", "yes", "like", "approve", "good"],
+    "unicode": "👍",
+    "version": "1.0.0"
+  },
+  {
+    "name": "thumbs-down",
+    "label": "Thumbs Down",
+    "category": "gestures",
+    "keywords": ["thumbsdown", "disagree", "no", "dislike", "bad"],
+    "unicode": "👎",
+    "version": "1.0.0"
+  },
+  {
+    "name": "wave",
+    "label": "Waving Hand",
+    "category": "gestures",
+    "keywords": ["wave", "hello", "hi", "goodbye", "greet", "hand"],
+    "unicode": "👋",
+    "version": "1.0.0"
+  },
+  {
+    "name": "peace",
+    "label": "Peace / Victory Sign",
+    "category": "gestures",
+    "keywords": ["peace", "victory", "two", "fingers", "vsign", "chill", "cool"],
+    "unicode": "✌️",
+    "version": "1.1.0"
+  },
+  {
+    "name": "fingers-crossed",
+    "label": "Fingers Crossed",
+    "category": "gestures",
+    "keywords": ["fingers", "crossed", "luck", "hope", "wish", "goodluck"],
+    "unicode": "🤞",
+    "version": "1.1.0"
+  },
+  {
+    "name": "applause",
+    "label": "Clapping Applause",
+    "category": "gestures",
+    "keywords": ["clap", "applause", "bravo", "hands", "cheer", "praise"],
+    "unicode": "👏",
+    "version": "1.1.0"
+  },
+  {
+    "name": "pointing-right",
+    "label": "Pointing Right",
+    "category": "gestures",
+    "keywords": ["point", "right", "finger", "index", "direction", "there"],
+    "unicode": "👉",
+    "version": "1.1.0"
+  },
+  {
+    "name": "handshake",
+    "label": "Handshake Deal",
+    "category": "gestures",
+    "keywords": ["handshake", "deal", "agree", "partner", "friendship", "collab"],
+    "unicode": "🤝",
+    "version": "1.1.0"
+  },
+  {
+    "name": "pray",
+    "label": "Praying / Folded Hands",
+    "category": "gestures",
+    "keywords": ["pray", "folded", "hands", "thanks", "gratitude", "please", "namaste"],
+    "unicode": "🙏",
+    "version": "1.1.0"
+  },
+  {
+    "name": "fist-bump",
+    "label": "Fist Bump",
+    "category": "gestures",
+    "keywords": ["fist", "bump", "punch", "bro", "together", "solid", "power"],
+    "unicode": "👊",
+    "version": "1.1.0"
+  },
+  {
+    "name": "boba",
+    "label": "Boba Bubble Tea",
+    "category": "food",
+    "keywords": ["boba", "bubbletea", "tea", "drink", "tapioca", "milk", "sweet"],
+    "unicode": "🧋",
+    "version": "1.1.0"
+  },
+  {
+    "name": "coffee",
+    "label": "Hot Coffee",
+    "category": "food",
+    "keywords": ["coffee", "tea", "mug", "latte", "espresso", "morning", "caffeine"],
+    "unicode": "☕",
+    "version": "1.1.0"
+  },
+  {
+    "name": "ramen",
+    "label": "Ramen Bowl",
+    "category": "food",
+    "keywords": ["ramen", "noodles", "soup", "bowl", "japanese", "delicious", "egg"],
+    "unicode": "🍜",
+    "version": "1.1.0"
+  },
+  {
+    "name": "pizza",
+    "label": "Pizza Slice",
+    "category": "food",
+    "keywords": ["pizza", "slice", "cheese", "pepperoni", "italian", "food", "fastfood"],
+    "unicode": "🍕",
+    "version": "1.1.0"
+  },
+  {
+    "name": "ice-cream",
+    "label": "Soft Serve Ice Cream",
+    "category": "food",
+    "keywords": ["icecream", "cone", "softserve", "sweet", "dessert", "summer", "treat"],
+    "unicode": "🍦",
+    "version": "1.1.0"
+  },
+  {
+    "name": "cake",
+    "label": "Birthday Cake",
+    "category": "food",
+    "keywords": ["cake", "birthday", "slice", "strawberry", "candle", "sweet", "party"],
+    "unicode": "🍰",
+    "version": "1.1.0"
+  },
+  {
+    "name": "avocado",
+    "label": "Cute Avocado",
+    "category": "food",
+    "keywords": ["avocado", "guacamole", "fruit", "green", "healthy", "cute"],
+    "unicode": "🥑",
+    "version": "1.1.0"
+  },
+  {
+    "name": "starry",
+    "label": "Golden Star",
+    "category": "symbols",
+    "keywords": ["star", "sparkle", "gold", "favorite", "shine", "badge"],
+    "unicode": "⭐",
+    "version": "1.0.0"
+  },
+  {
+    "name": "sparkles",
+    "label": "Magic Sparkles",
+    "category": "symbols",
+    "keywords": ["sparkles", "magic", "glitter", "shine", "stars", "sparkle", "clean"],
+    "unicode": "✨",
+    "version": "1.1.0"
+  },
+  {
+    "name": "rainbow",
+    "label": "Rainbow & Cloud",
+    "category": "symbols",
+    "keywords": ["rainbow", "cloud", "colorful", "sky", "pride", "weather", "magic"],
+    "unicode": "🌈",
+    "version": "1.1.0"
+  },
+  {
+    "name": "sun",
+    "label": "Smiling Sun",
+    "category": "symbols",
+    "keywords": ["sun", "sunny", "sunshine", "summer", "weather", "warm", "bright"],
+    "unicode": "☀️",
+    "version": "1.1.0"
+  },
+  {
+    "name": "moon",
+    "label": "Crescent Moon",
+    "category": "symbols",
+    "keywords": ["moon", "crescent", "night", "sleep", "dream", "stars", "evening"],
+    "unicode": "🌙",
+    "version": "1.1.0"
+  },
+  {
+    "name": "rocket",
+    "label": "Launching Rocket",
+    "category": "objects",
+    "keywords": ["rocket", "launch", "space", "ship", "fast", "blastoff", "crypto", "to-the-moon"],
+    "unicode": "🚀",
+    "version": "1.1.0"
+  },
+  {
+    "name": "gift",
+    "label": "Gift Box",
+    "category": "objects",
+    "keywords": ["gift", "present", "box", "ribbon", "birthday", "surprise", "holiday"],
+    "unicode": "🎁",
+    "version": "1.1.0"
+  },
+  {
+    "name": "diamond",
+    "label": "Sparkling Diamond",
+    "category": "objects",
+    "keywords": ["diamond", "gem", "jewel", "crystal", "sparkle", "precious", "luxury"],
+    "unicode": "💎",
+    "version": "1.1.0"
+  },
+  {
+    "name": "music-note",
+    "label": "Musical Notes",
+    "category": "symbols",
+    "keywords": ["music", "note", "song", "melody", "sound", "tune", "audio"],
+    "unicode": "🎵",
+    "version": "1.1.0"
+  },
+  {
+    "name": "balloon",
+    "label": "Party Balloon",
+    "category": "fun",
+    "keywords": ["balloon", "party", "float", "celebrate", "birthday", "red"],
+    "unicode": "🎈",
+    "version": "1.1.0"
+  },
+  {
+    "name": "cherry-blossom",
+    "label": "Cherry Blossom Sakura",
+    "category": "symbols",
+    "keywords": ["flower", "cherry", "blossom", "sakura", "pink", "spring", "nature", "bloom"],
+    "unicode": "🌸",
+    "version": "1.1.0"
+  },
+  {
+    "name": "skull",
+    "label": "Cute Skull",
+    "category": "symbols",
+    "keywords": ["skull", "dead", "skeleton", "spooky", "kawaii", "halloween"],
+    "unicode": "💀",
+    "version": "1.1.0"
+  },
+  {
+    "name": "hundred",
+    "label": "100 Points",
+    "category": "symbols",
+    "keywords": ["100", "hundred", "score", "perfect", "points", "grade", "fire"],
+    "unicode": "💯",
+    "version": "1.1.0"
+  }
+]

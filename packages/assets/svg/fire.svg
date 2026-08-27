@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Fire -->
+  <!-- Outer Flame Body -->
+  <path d="M64 12 C64 12 76 28 72 44 C76 38 84 34 88 40 C98 50 106 68 106 84 C106 106 88 120 64 120 C40 120 22 106 22 84 C22 66 32 50 46 36 C48 50 56 52 56 42 C56 26 64 12 64 12 Z" 
+        fill="#FF5400" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  
+  <!-- Middle Flame (Orange-Yellow) -->
+  <path d="M64 36 C64 36 74 50 72 62 C76 56 82 54 84 60 C90 70 94 80 94 92 C94 108 80 116 64 116 C48 116 34 108 34 92 C34 78 42 66 52 54 C54 64 60 66 60 58 C60 46 64 36 64 36 Z" 
+        fill="#FF9E00"/>
+
+  <!-- Inner Core (Bright Golden Yellow) -->
+  <path d="M64 66 C64 66 70 76 68 84 C72 80 76 80 78 84 C80 90 82 96 82 102 C82 110 74 114 64 114 C54 114 46 110 46 102 C46 94 52 86 58 78 C58 84 62 86 62 80 C62 72 64 66 64 66 Z" 
+        fill="#FFD000"/>
+
+  <!-- Tiny Sparkles -->
+  <circle cx="28" cy="44" r="3.5" fill="#FFD000"/>
+  <circle cx="100" cy="48" r="3" fill="#FFD000"/>
+</svg>

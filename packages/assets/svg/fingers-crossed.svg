@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Fingers Crossed (Good Luck) -->
+  <path d="M44 108 L44 80 L76 80 L76 108 Z" fill="#FFE5D9" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Middle Finger crossed over Index Finger -->
+  <path d="M46 76 L46 32 C46 24 56 24 56 32 L56 76" fill="#FFE5D9" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M64 76 L48 28 C46 20 58 18 64 24 L74 76" fill="#FFE5D9" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Folded Thumb & Other Fingers -->
+  <path d="M38 78 C30 76 28 84 38 90 L44 90" stroke="#1E1F24" stroke-width="4" stroke-linecap="round" fill="#FFE5D9"/>
+  <path d="M74 68 C82 68 82 76 74 76" stroke="#1E1F24" stroke-width="3.5" fill="#FFE5D9"/>
+  <!-- Sparkle of luck -->
+  <path d="M26 28 L28 34 L34 36 L28 38 L26 44 L24 38 L18 36 L24 34 Z" fill="#FFD166"/>
+</svg>

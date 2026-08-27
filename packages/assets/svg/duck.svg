@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Cute Rubber Duckling -->
+  <!-- Tiny Head Crest Feather -->
+  <path d="M64 22 C64 16 58 14 54 18 C58 22 62 26 64 30 Z" fill="#FFD166" stroke="#1E1F24" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="64" cy="68" r="44" fill="#FFD166" stroke="#1E1F24" stroke-width="4.5"/>
+  <!-- Cheeks Blush -->
+  <ellipse cx="32" cy="74" rx="9" ry="6" fill="#FFA3BA" fill-opacity="0.8"/>
+  <ellipse cx="96" cy="74" rx="9" ry="6" fill="#FFA3BA" fill-opacity="0.8"/>
+  <!-- Big Eyes -->
+  <circle cx="44" cy="56" r="7" fill="#1E1F24"/>
+  <circle cx="46" cy="54" r="2.5" fill="#FFFFFF"/>
+  <circle cx="84" cy="56" r="7" fill="#1E1F24"/>
+  <circle cx="86" cy="54" r="2.5" fill="#FFFFFF"/>
+  <!-- Cute Orange Duck Beak -->
+  <ellipse cx="64" cy="74" rx="22" ry="14" fill="#FB8500" stroke="#1E1F24" stroke-width="4"/>
+  <line x1="46" y1="74" x2="82" y2="74" stroke="#1E1F24" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="60" cy="70" r="1.5" fill="#944400"/>
+  <circle cx="68" cy="70" r="1.5" fill="#944400"/>
+</svg>

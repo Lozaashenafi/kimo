@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Fist Bump / Punch Forward -->
+  <!-- Clenched Fist facing forward -->
+  <circle cx="64" cy="64" r="38" fill="#FFE5D9" stroke="#1E1F24" stroke-width="4.5"/>
+  <!-- 4 Knuckles -->
+  <path d="M38 52 C38 42 48 42 48 52" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48 48 C48 38 60 38 60 48" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <path d="M60 48 C60 38 72 38 72 48" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <path d="M72 52 C72 42 82 42 82 52" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <!-- Folded Thumb across knuckles -->
+  <path d="M38 74 C34 60 56 60 76 66 C80 72 74 80 64 80 Z" fill="#FFD8BE" stroke="#1E1F24" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Impact spark rings -->
+  <circle cx="64" cy="64" r="48" stroke="#FFD166" stroke-width="3" stroke-dasharray="8 6"/>
+</svg>

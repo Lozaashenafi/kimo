@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Scream (Munch style shock) -->
+  <!-- Wide round blank white shocked eyes -->
+  <ellipse cx="44" cy="50" rx="12" ry="14" fill="#FFFFFF" stroke="#1E1F24" stroke-width="4.5"/>
+  <circle cx="44" cy="50" r="5" fill="#1E1F24"/>
+  <ellipse cx="84" cy="50" rx="12" ry="14" fill="#FFFFFF" stroke="#1E1F24" stroke-width="4.5"/>
+  <circle cx="84" cy="50" r="5" fill="#1E1F24"/>
+  <!-- Pale cold blue forehead tint -->
+  <ellipse cx="64" cy="30" rx="34" ry="12" fill="#70D6FF" fill-opacity="0.35"/>
+  <!-- Giant screaming oval mouth -->
+  <ellipse cx="64" cy="82" rx="14" ry="24" fill="#1E1F24"/>
+  <ellipse cx="64" cy="94" rx="8" ry="8" fill="#FF5E7E"/>
+  <!-- Hands holding cheeks -->
+  <path d="M22 60 C18 72 20 86 28 92 C32 86 32 72 28 60 Z" fill="#FFE5D9" stroke="#1E1F24" stroke-width="3.5"/>
+  <path d="M106 60 C110 72 108 86 100 92 C96 86 96 72 100 60 Z" fill="#FFE5D9" stroke="#1E1F24" stroke-width="3.5"/>
+</svg>

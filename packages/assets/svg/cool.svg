@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Cool Sunglasses -->
+  <ellipse cx="26" cy="80" rx="14" ry="8" fill="#FFA3BA" fill-opacity="0.5"/>
+  <ellipse cx="102" cy="80" rx="14" ry="8" fill="#FFA3BA" fill-opacity="0.5"/>
+
+  <!-- Eyebrows raised slightly above shades -->
+  <path d="M28 32 C36 28 48 30 54 34" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M74 34 C80 30 92 28 100 32" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- Sunglasses Frame and Dark Lenses with white glare lines -->
+  <g>
+    <!-- Bridge -->
+    <path d="M56 50 Q64 47 72 50" stroke="#1E1F24" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Left Lens -->
+    <path d="M24 45 C24 45 60 44 60 52 C60 68 48 72 32 70 C22 69 22 52 24 45 Z" 
+          fill="#1E1F24" stroke="#1E1F24" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Left Lens Glare reflection -->
+    <path d="M30 49 L46 49 L36 65 L26 65 Z" fill="#4CC9F0" fill-opacity="0.45"/>
+    <circle cx="52" cy="53" r="2" fill="#FFFFFF"/>
+
+    <!-- Right Lens -->
+    <path d="M68 52 C68 44 104 45 104 45 C106 52 106 69 96 70 C80 72 68 68 68 52 Z" 
+          fill="#1E1F24" stroke="#1E1F24" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Right Lens Glare reflection -->
+    <path d="M76 49 L92 49 L82 65 L72 65 Z" fill="#4CC9F0" fill-opacity="0.45"/>
+    <circle cx="98" cy="53" r="2" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Confident Smile -->
+  <path d="M48 84 C56 94 76 94 82 82" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Sparkle on corner -->
+  <path d="M108 38 L112 44 L118 48 L112 52 L108 58 L104 52 L98 48 L104 44 Z" fill="#FFD166"/>
+</svg>

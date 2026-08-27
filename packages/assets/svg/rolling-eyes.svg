@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Rolling Eyes -->
+  <ellipse cx="28" cy="76" rx="14" ry="8" fill="#FFA3BA" fill-opacity="0.5"/>
+  <ellipse cx="100" cy="76" rx="14" ry="8" fill="#FFA3BA" fill-opacity="0.5"/>
+  <!-- Annoyed flat / raised eyebrows -->
+  <path d="M32 32 C40 30 50 34 54 36" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <path d="M74 36 C78 34 88 30 96 32" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <!-- Big Eyes Looking Upward -->
+  <ellipse cx="44" cy="54" rx="12" ry="14" fill="#FFFFFF" stroke="#1E1F24" stroke-width="4"/>
+  <circle cx="44" cy="46" r="6" fill="#1E1F24"/>
+  <circle cx="46" cy="44" r="2" fill="#FFFFFF"/>
+  <ellipse cx="84" cy="54" rx="12" ry="14" fill="#FFFFFF" stroke="#1E1F24" stroke-width="4"/>
+  <circle cx="84" cy="46" r="6" fill="#1E1F24"/>
+  <circle cx="86" cy="44" r="2" fill="#FFFFFF"/>
+  <!-- Skeptical / Sigh wavy flat mouth -->
+  <path d="M48 84 C56 82 72 86 80 84" stroke="#1E1F24" stroke-width="4.5" stroke-linecap="round"/>
+</svg>
