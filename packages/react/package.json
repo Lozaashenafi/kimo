@@ -21,7 +21,7 @@
     "react-dom": ">=18.0.0"
   },
   "dependencies": {
-    "@kimo-emoji/core": "^1.1.0"
+    "@kimo-emoji/core": "workspace:*"
   },
   "keywords": [
     "react",
