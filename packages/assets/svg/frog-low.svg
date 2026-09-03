@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <!-- Kimo Emoji: Frog Low - Sad & Down -->
+  <!-- Frog Body - slightly hunched -->
+  <path d="M24 66 C24 46 32 40 42 40 C48 40 52 44 56 48 C60 48 68 48 72 48 C76 44 80 40 86 40 C96 40 104 46 104 66 C104 92 92 110 64 110 C36 110 24 92 24 66 Z" 
+        fill="#AACC00" stroke="#1E1F24" stroke-width="4.5" stroke-linejoin="round"/>
+  <!-- Frog Belly -->
+  <path d="M40 84 C40 72 50 66 64 66 C78 66 88 72 88 84 C88 100 78 106 64 106 C50 106 40 100 40 84 Z" fill="#E9F5DB"/>
+  <!-- Left Eye Bulge - droopy sad eyes -->
+  <circle cx="44" cy="40" r="14" fill="#AACC00" stroke="#1E1F24" stroke-width="4"/>
+  <circle cx="44" cy="42" r="6" fill="#1E1F24"/>
+  <circle cx="46" cy="40" r="2" fill="#FFFFFF"/>
+  <!-- Sad drooping eyelid -->
+  <path d="M32 36 C36 32 52 32 56 36" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right Eye Bulge - droopy -->
+  <circle cx="84" cy="40" r="14" fill="#AACC00" stroke="#1E1F24" stroke-width="4"/>
+  <circle cx="84" cy="42" r="6" fill="#1E1F24"/>
+  <circle cx="86" cy="40" r="2" fill="#FFFFFF"/>
+  <path d="M72 36 C76 32 92 32 96 36" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+  <!-- Rosy Cheeks - faded -->
+  <ellipse cx="34" cy="70" rx="8" ry="5" fill="#FF8BA7" fill-opacity="0.4"/>
+  <ellipse cx="94" cy="70" rx="8" ry="5" fill="#FF8BA7" fill-opacity="0.4"/>
+  <!-- Sad downturned mouth -->
+  <path d="M46 82 C52 76 76 76 82 82" stroke="#1E1F24" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Sad tear drop -->
+  <path d="M38 50 C36 56 34 62 34 68" stroke="#4CC9F0" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Slumped arms -->
+  <path d="M24 76 C18 78 14 84 16 90" stroke="#1E1F24" stroke-width="3.5" stroke-linecap="round" fill="#AACC00"/>
+  <path d="M104 76 C110 78 114 84 112 90" stroke="#1E1F24" stroke-width="3.5" stroke-linecap="round" fill="#AACC00"/>
+</svg>

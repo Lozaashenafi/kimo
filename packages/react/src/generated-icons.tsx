@@ -304,6 +304,33 @@ export const FrogDance = forwardRef<SVGSVGElement, IndividualEmojiProps>((props,
 FrogDance.displayName = 'FrogDance';
 
 /**
+ * Exhausted Frog Emoji Component
+ * Category: animals
+ */
+export const FrogExhausted = forwardRef<SVGSVGElement, IndividualEmojiProps>((props, ref) => {
+  return <Emoji name="frog-exhausted" ref={ref} {...props} />;
+});
+FrogExhausted.displayName = 'FrogExhausted';
+
+/**
+ * Good Frog Emoji Component
+ * Category: animals
+ */
+export const FrogGood = forwardRef<SVGSVGElement, IndividualEmojiProps>((props, ref) => {
+  return <Emoji name="frog-good" ref={ref} {...props} />;
+});
+FrogGood.displayName = 'FrogGood';
+
+/**
+ * Great Frog Emoji Component
+ * Category: animals
+ */
+export const FrogGreat = forwardRef<SVGSVGElement, IndividualEmojiProps>((props, ref) => {
+  return <Emoji name="frog-great" ref={ref} {...props} />;
+});
+FrogGreat.displayName = 'FrogGreat';
+
+/**
  * Happy Frog Emoji Component
  * Category: animals
  */
@@ -320,6 +347,24 @@ export const FrogLove = forwardRef<SVGSVGElement, IndividualEmojiProps>((props, 
   return <Emoji name="frog-love" ref={ref} {...props} />;
 });
 FrogLove.displayName = 'FrogLove';
+
+/**
+ * Low Frog Emoji Component
+ * Category: animals
+ */
+export const FrogLow = forwardRef<SVGSVGElement, IndividualEmojiProps>((props, ref) => {
+  return <Emoji name="frog-low" ref={ref} {...props} />;
+});
+FrogLow.displayName = 'FrogLow';
+
+/**
+ * Natural Frog Emoji Component
+ * Category: animals
+ */
+export const FrogNatural = forwardRef<SVGSVGElement, IndividualEmojiProps>((props, ref) => {
+  return <Emoji name="frog-natural" ref={ref} {...props} />;
+});
+FrogNatural.displayName = 'FrogNatural';
 
 /**
  * Friendly Ghost Emoji Component

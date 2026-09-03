@@ -3,7 +3,23 @@
 import React, { forwardRef } from 'react';
 import { getEmoji } from '../../core/src/emoji';
 import { useEmojiContext } from './EmojiProvider';
+import { EmojiErrorBoundary } from './EmojiErrorBoundary';
 import { EmojiProps } from './types';
+
+/**
+ * Sanitize SVG content to prevent XSS when using dangerouslySetInnerHTML.
+ * Strips script tags, event handler attributes, foreignObject elements,
+ * and data: URI schemes that could execute code.
+ */
+function sanitizeSvg(svg: string): string {
+  return svg
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<foreignObject[\s\S]*?<\/foreignObject>/gi, '')
+    .replace(/on[a-z]+\s*=\s*["'][^"']*["']/gi, '')
+    .replace(/on[a-z]+\s*=\s*[\s\S]*?>/gi, '')
+    .replace(/data:text\/html[\s\S]*?/gi, '')
+    .replace(/javascript\s*:/gi, '');
+}
 
 // Helper to extract inner markup from full SVG string
 function getSvgInner(svgContent: string): string {
@@ -114,11 +130,25 @@ export const Emoji = forwardRef<SVGSVGElement, EmojiProps>(function Emoji(
       aria-label={isAriaHidden ? undefined : label}
       aria-hidden={isAriaHidden}
       dangerouslySetInnerHTML={{
-        __html: title && !isAriaHidden ? `<title>${title}</title>${innerSvg}` : innerSvg,
+        __html: sanitizeSvg(title && !isAriaHidden ? `<title>${title}</title>${innerSvg}` : innerSvg),
       }}
       {...restProps}
     />
   );
 });
+
+/**
+ * Wrapped Emoji component with ErrorBoundary for graceful crash recovery.
+ * Use this as the default export for production applications.
+ */
+export const SafeEmoji = forwardRef<SVGSVGElement, EmojiProps>(function SafeEmoji(props, ref) {
+  return (
+    <EmojiErrorBoundary>
+      <Emoji ref={ref} {...props} />
+    </EmojiErrorBoundary>
+  );
+});
+
+SafeEmoji.displayName = 'SafeEmoji';
 
 Emoji.displayName = 'Emoji';

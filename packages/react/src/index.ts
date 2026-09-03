@@ -6,4 +6,5 @@
 export * from './types';
 export * from './EmojiProvider';
 export * from './Emoji';
+export * from './EmojiErrorBoundary';
 export * from './generated-icons';

@@ -13,8 +13,8 @@ import {
 
 describe('@kimo-emoji/core', () => {
   it('should have all emojis registered', () => {
-    expect(EMOJI_LIST.length).toBe(79);
-    expect(Object.keys(EMOJI_REGISTRY).length).toBe(79);
+    expect(EMOJI_LIST.length).toBe(84);
+    expect(Object.keys(EMOJI_REGISTRY).length).toBe(84);
   });
 
   it('should retrieve emoji data by valid name', () => {
@@ -64,7 +64,7 @@ describe('@kimo-emoji/core', () => {
     expect(smileResults.some((e) => e.name === 'happy')).toBe(true);
 
     const frogResults = searchEmojis('frog');
-    expect(frogResults.length).toBe(5);
+    expect(frogResults.length).toBe(10);
 
     const limitedResults = searchEmojis('', { limit: 5 });
     expect(limitedResults.length).toBe(5);

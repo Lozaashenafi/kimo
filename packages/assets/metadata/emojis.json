@@ -384,6 +384,46 @@
     "version": "1.1.0"
   },
   {
+    "name": "frog-great",
+    "label": "Great Frog",
+    "category": "animals",
+    "keywords": ["frog", "great", "triumphant", "confident", "victory", "celebrate", "awesome"],
+    "unicode": "🐸",
+    "version": "1.1.0"
+  },
+  {
+    "name": "frog-good",
+    "label": "Good Frog",
+    "category": "animals",
+    "keywords": ["frog", "good", "content", "relaxed", "chill", "thumbsup", "nice"],
+    "unicode": "🐸",
+    "version": "1.1.0"
+  },
+  {
+    "name": "frog-natural",
+    "label": "Natural Frog",
+    "category": "animals",
+    "keywords": ["frog", "natural", "calm", "neutral", "zen", "peaceful", "chill"],
+    "unicode": "🐸",
+    "version": "1.1.0"
+  },
+  {
+    "name": "frog-low",
+    "label": "Low Frog",
+    "category": "animals",
+    "keywords": ["frog", "low", "sad", "down", "unhappy", "blue", "depressed"],
+    "unicode": "🐸",
+    "version": "1.1.0"
+  },
+  {
+    "name": "frog-exhausted",
+    "label": "Exhausted Frog",
+    "category": "animals",
+    "keywords": ["frog", "exhausted", "tired", "sleepy", "drained", "yawn", "zzz"],
+    "unicode": "🐸",
+    "version": "1.1.0"
+  },
+  {
     "name": "heart-hands",
     "label": "Heart Hands",
     "category": "gestures",

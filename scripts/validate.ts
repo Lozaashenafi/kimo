@@ -78,6 +78,7 @@ export function validateAssets() {
   }
 }
 
-if (require.main === module || process.argv[1]?.includes('validate')) {
+const isMainModule = import.meta.url === `file://${process.argv[1]}` || process.argv[1]?.includes('validate');
+if (isMainModule) {
   validateAssets();
 }
