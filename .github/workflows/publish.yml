@@ -7,9 +7,11 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    # 1. This must match the environment name in your npm settings screenshot
+    environment: Kimo 
     permissions:
       contents: read
-      id-token: write
+      id-token: write # Required for Trusted Publishing
     steps:
       - uses: actions/checkout@v4
 
@@ -31,12 +33,10 @@ jobs:
       - name: Build react
         run: cd packages/react && pnpm build
 
+      # 2. Removed the secrets.NPM_TOKEN requirement. 
+      # pnpm will use the OIDC token automatically because of 'id-token: write' and 'environment: Kimo'
       - name: Publish @kimo-emoji/core
-        run: cd packages/core && pnpm publish --no-git-checks --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: cd packages/core && pnpm publish --no-git-checks --access public --provenance
 
       - name: Publish @kimo-emoji/react
-        run: cd packages/react && pnpm publish --no-git-checks --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: cd packages/react && pnpm publish --no-git-checks --access public --provenance
