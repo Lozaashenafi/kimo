@@ -37,10 +37,10 @@ export function Hero({ onExploreClick, onOpenPlayground }: HeroProps) {
         </div>
 
         {/* Headline — plain text, no gradient */}
-        <h1 className="text-4xl font-bold tracking-tight text-[#1E1F24] sm:text-5xl lg:text-6xl">
-          The Expressive SVG Emoji Library for Modern Web Apps
-        </h1>
-
+        <h1 className="font-['Cormorant_Garamond'] text-3xl font-light italic tracking-tight text-[#1E1F24] sm:text-4xl lg:text-5xl leading-tight">
+  The Expressive SVG Emoji Library <br /> 
+  for Modern Web Apps
+</h1>
         {/* Subheading */}
         <p className="mt-5 max-w-[65ch] mx-auto text-base sm:text-lg text-[#52525B] leading-relaxed">
           Pixel-crafted, tree-shakeable SVG emojis designed with warm rosy cheeks, dynamic character expressions,

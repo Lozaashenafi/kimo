@@ -1,2 +1,17 @@
 packages:
   - 'packages/*'
+
+onlyBuiltDependencies:
+  - '@google/genai'
+  - '@tailwindcss/oxide'
+  - 'esbuild'
+  - 'protobufjs'
+  - 're2'
+  - 'unrs-resolver'
+allowBuilds:
+  '@google/genai': set this to true or false
+  '@tailwindcss/oxide': set this to true or false
+  esbuild: set this to true or false
+  protobufjs: set this to true or false
+  re2: set this to true or false
+  unrs-resolver: set this to true or false
