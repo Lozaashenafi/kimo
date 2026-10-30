@@ -21,6 +21,22 @@
 
 ---
 
+## 📸 Screenshots & Preview
+
+See Kimo Emoji in action:
+
+<!-- Replace these paths with your actual screenshot paths -->
+
+### Emoji Collection
+![Kimo Emoji Collection](./screenshots/emoji1.png)
+
+### React Components
+![Kimo React Components](./screenshots/emoji2.png)
+
+### Emoji Playground
+![Kimo Emoji Playground](./screenshots/emoji3.png)
+
+---  
 ## 📦 Packages
 
 | Package | Version | Description |
